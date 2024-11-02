@@ -22,7 +22,7 @@ Aquí tienes un README más conciso para tu proyecto **The Secret of Cooking**.
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/TheSecretOfCooking.git
+   git clone https://github.com/tu-usuario/TheSecretOfCookingBD.git
    cd TheSecretOfCooking
    ```
 2. **Abre el proyecto en Android Studio**.
