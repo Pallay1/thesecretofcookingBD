@@ -35,10 +35,6 @@ Aquí tienes un README más conciso para tu proyecto **The Secret of Cooking**.
 - **DatabaseHelper**: Controlador para la base de datos SQLite.
 - **Layouts**: Diseños para las pantallas y los diálogos.
 
-## Contribuciones
-
-Para contribuir, realiza un fork, crea una rama para tus cambios y abre un pull request.
-
 ## Contacto
 
 Para preguntas o sugerencias, contacta a [nachito.qaa@gmail.com].
