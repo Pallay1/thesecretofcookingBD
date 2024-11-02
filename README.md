@@ -42,7 +42,3 @@ Para contribuir, realiza un fork, crea una rama para tus cambios y abre un pull 
 ## Contacto
 
 Para preguntas o sugerencias, contacta a [nachito.qaa@gmail.com].
-
---- 
-
-Este README te brinda una visión general rápida del proyecto y sus funcionalidades.
